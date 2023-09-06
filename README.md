@@ -1,2 +1,2 @@
-# Covid-19 
-# Using Sql to explore the datasets and after exploration, I would create codes that would be used in visualising my data
+# Covid-19 data exploration and visualisation
+# Using Sql to explore covid-19 deaths and vaccination, analsing the datasets and then later visualising it in tableau.
